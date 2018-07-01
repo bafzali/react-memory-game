@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/img/beagle-puppy.png",
+    "alt": "Beagle puppy laying by train tracks"
+  },
+  {
+    "id": 2,
+    "image": "/img/boston-terrier.png",
+    "alt": "Boston terrier on red pillow"
+  },
+  {
+    "id": 3,
+    "image": "/img/cat.png",
+    "alt": "cat on hind legs"
+  },
+  {
+    "id": 4,
+    "image": "/img/huskey-1.png",
+    "alt": "Laying huskey with tongue out"
+  },
+  {
+    "id": 5,
+    "image": "/img/mastiff-in-grass.png",
+    "alt": "mastiff in tall green grass"
+  },
+  {
+    "id": 6,
+    "image": "/img/puppy-minion.png",
+    "alt": "small puppy chewing on a minion"
+  },
+  {
+    "id": 7,
+    "image": "/img/tan-pit-bull.png",
+    "alt": "tan and white pitbull terrier"
+  },
+  {
+    "id": 8,
+    "image": "/img/tan-puppy.png",
+    "alt": "tan puppy with white toes"
+  },
+  {
+    "id": 9,
+    "image": "/img/two-goldens.png",
+    "alt": "two golden retrievers"
+  },
+  {
+    "id": 10,
+    "image": "/img/white-beach-puppy.png",
+    "alt": "white furry puppy on a beach"
+  },
+  {
+    "id": 11,
+    "image": "/img/white-black-puppy.png",
+    "alt": "white puppy sleeping in a person's arms"
+  },
+  {
+    "id": 12,
+    "image": "/img/white-dox-mix.png",
+    "alt": "small white mutt"
+  }
+]
