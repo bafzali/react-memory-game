@@ -5,7 +5,7 @@ const Navbar = props => (
   <nav className="navbar navbar-default navbar-fixed-top">
     <div className="container-fluid">
       <div className="navbar-header">
-        <a className="navbar-brand" href="http://localhost:3000/">
+        <a className="navbar-brand" href="https://bafzali.github.io/react-memory-game/">
         Clicky Game
         </a>
       </div>
